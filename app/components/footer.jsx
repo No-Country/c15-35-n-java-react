@@ -2,7 +2,7 @@
 
 const Footer = () => {
 
-  const fecha
+
 
   return (
     <footer className="footer">

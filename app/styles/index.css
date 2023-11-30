@@ -426,6 +426,10 @@ template {
   color: var(--amarillo);
 }
 
+.enlace-carrito {
+  display: none;
+}
+
 .registro {
   display: flex;
   justify-content: center;
