@@ -1,12 +1,12 @@
 import '../styles/header.css'
 
-const tituloHeader = () => {
+const TituloHeader = () => {
   return (
-    <div className='tituloHeader'>
-      <h1 className="titulo">Clie</h1>
+    <div className='tituloHeader contenedor'>
+      <h1 className="titulo">Cliente</h1>
       <p className="descripcion"></p>
     </div>
   )
 }
 
-export default tituloHeader
+export default TituloHeader

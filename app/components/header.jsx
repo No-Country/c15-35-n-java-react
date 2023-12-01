@@ -1,7 +1,9 @@
 import { Link } from '@remix-run/react'
 
 import Navegacion from './navegacion'
+import TituloHeader from './tiuloHeader'
 import Logo from './logo'
+
 
 const Header = () => {
     return (
@@ -15,6 +17,9 @@ const Header = () => {
                 </div>
                 <h2 className='enlace enlace-carrito'>X</h2>
             </div>
+
+
+            <TituloHeader />
         </header>
     )
 }
