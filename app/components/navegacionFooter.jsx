@@ -3,12 +3,12 @@ import { Link } from '@remix-run/react'
 const NavegacionFooter = () => {
     return (
         <nav className='navegacion-footer'>
-            <Link className='enlace-footer' to='/'>Home</Link>
-            <Link className='enlace-footer' to='nosotros'>Nosotros</Link>
-            <Link className='enlace-footer' to='/clases'>Clases</Link>
-            <Link className='enlace-footer' to='/tienda'>Tienda</Link>
-            <Link className='enlace-footer' to='/entrenadores'>Entrenadores</Link>
-            <Link className='enlace-footer' to='/blog'>Blog</Link>
+            <Link className='enlace-footer' to='/'>home</Link>
+            <Link className='enlace-footer' to='nosotros'>nosotros</Link>
+            <Link className='enlace-footer' to='/clases'>clases</Link>
+            <Link className='enlace-footer' to='/tienda'>tienda</Link>
+            <Link className='enlace-footer' to='/entrenadores'>entrenadores</Link>
+            <Link className='enlace-footer' to='/blog'>blog</Link>
         </nav>
     )
 }

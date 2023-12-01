@@ -6,7 +6,7 @@ import Logo from './logo'
 const Header = () => {
     return (
         <header className="header">
-            <div className="contenedor">
+            <div className="contenedor contenido-header">
                 <Logo />
                 <Navegacion />
                 <div className="registro">
