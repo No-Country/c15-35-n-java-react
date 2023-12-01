@@ -65,6 +65,7 @@ const Footer = () => {
       <div className="copyright">
         <p> &copy; 2023 Todos los derechos reservados a <span>c15-35-n-java-react</span></p>
       </div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur odio officiis dolore dolorum nam tempore saepe ipsum rem quo eum.</p>
     </footer>
   )
 }
